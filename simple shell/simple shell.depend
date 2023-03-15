@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1677598832 source:/home/salma/Documents/simple shell/main.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<sys/resource.h>
+	<signal.h>
+	<stdbool.h>
+
